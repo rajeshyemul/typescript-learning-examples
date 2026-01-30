@@ -1,4 +1,9 @@
 # typescript-learning-examples
+![GitHub stars](https://img.shields.io/github/stars/rajeshyemul/typescript-learning-examples?style=flat)
+![GitHub issues](https://img.shields.io/github/issues/rajeshyemul/typescript-learning-examples)
+![GitHub license](https://img.shields.io/github/license/rajeshyemul/typescript-learning-examples)
+![TypeScript](https://img.shields.io/badge/language-TypeScript-blue)
+
 A structured, example-driven guide to learning TypeScript from basics to advanced concepts, with clear explanations and real-world examples.
 
 This repository is a **step-by-step, example-driven guide** to learning TypeScript from fundamentals to advanced concepts.
