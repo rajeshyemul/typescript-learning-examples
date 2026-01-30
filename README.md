@@ -1,3 +1,5 @@
+![TypeScript Learning Examples](banner.png)
+
 # typescript-learning-examples
 ![GitHub stars](https://img.shields.io/github/stars/rajeshyemul/typescript-learning-examples?style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/rajeshyemul/typescript-learning-examples)
