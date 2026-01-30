@@ -13,3 +13,7 @@ By the end of this section, you should be comfortable:
 - Setting up TypeScript locally
 - Understanding compiler errors
 - Running a TypeScript file end-to-end
+
+### How to run the example
+- tsc 07_cli_first_file.ts
+- node 07_cli_first_file.js

@@ -1,0 +1,12 @@
+*.tgz
+
+.DS_Store
+.env
+.idea
+.npmrc
+
+/dist/
+/node_modules/
+/output/
+
+package-lock.json
