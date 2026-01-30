@@ -107,4 +107,12 @@ This repository will continue to grow with:
 
 The focus will always remain on **clarity, correctness, and practical learning**.
 
+---
+
+## License
+
+This project is licensed under the MIT License.
+You are free to use, modify, and share this repository for learning and educational purposes.
+
+
 
