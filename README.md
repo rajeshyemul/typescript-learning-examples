@@ -111,10 +111,86 @@ The focus will always remain on **clarity, correctness, and practical learning**
 
 ---
 
+## 🧭 Learning Path
+
+The repository is organized progressively.
+
+Start from the basics and move toward automation architecture.
+
+🟢 Foundations
+Folder	Focus
+00_Setup	Environment setup & project basics
+01_Basics	Variables, operators, inference
+02_Types	Core types, assertions, unknown vs any
+03_Combining_Types	Union, alias, keyof
+04_Narrowing	Type guards & safe logic
+05_Functions	Typed functions & overloads
+06_Interfaces	Object contracts
+07_Classes	OOP with TypeScript
+08_Generics	Reusable type-safe patterns
+09_Decorators	Advanced TS features
+
+🔵 Automation-Oriented TypeScript
+
+Folder	Focus
+10_Automation_Engineering_With_TypeScript	Type-safe POM, API contracts, async design
+06_Data_Driven_Testing_With_Utility_Types	Scalable test data modeling
+07_Project_Structure_And_Modules	Clean architecture & layering
+08_Error_Handling_And_Logging	Structured error modeling
+10_Framework_Assembly_Example	Putting everything together
+
+## What Makes This Different?
+
+This repository:
+
+✔ Connects TypeScript to automation scenarios
+✔ Teaches architectural thinking
+✔ Avoids shallow examples
+✔ Demonstrates safe async patterns
+✔ Emphasizes clean layering
+✔ Shows scalable test data modeling
+
+It does not:
+
+✖ Try to cover every corner of TypeScript
+✖ Introduce unnecessary enterprise complexity
+✖ Hide behind theory without practical examples
+
+The focus is clarity and practical application.
+
+## Repository Structure Overview
+
+typescript-learning-examples/
+ ├── 00_Setup
+ ├── 01_Basics
+ ├── 02_Types
+ ├── 03_Combining_Types
+ ├── 04_Narrowing
+ ├── 05_Functions
+ ├── 06_Interfaces
+ ├── 07_Classes
+ ├── 08_Generics
+ ├── 09_Decorators
+ └── 10_Automation_Engineering_With_TypeScript
+
+## 📌 Recommended Progression
+
+If you're new:
+Complete 01_Basics → 08_Generics
+Move to 10_Automation_Engineering_With_TypeScript
+Study Framework_Assembly_Example last
+Do not jump directly to advanced sections.
+
 ## License
 
 This project is licensed under the MIT License.
 You are free to use, modify, and share this repository for learning and educational purposes.
 
+## ⭐ Final Note
 
+This repository is designed to help automation engineers write:
+Safer tests
+Cleaner frameworks
+More maintainable code
+If this project helps you, consider giving it a star.
 
